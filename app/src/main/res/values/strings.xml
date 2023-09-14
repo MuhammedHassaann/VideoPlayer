@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeTest</string>
+
+    <string name="play_previous">Play Previous</string>
+    <string name="play_next">Play Next</string>
+    <string name="rewind_15">Rewind 15 seconds</string>
+    <string name="forward_15">Forward 15 seconds</string>
+    <string name="toggle_play">Toggle Play</string>
+    <string name="toggle_full_screen">Toggle Fullscreen</string>
+</resources>
